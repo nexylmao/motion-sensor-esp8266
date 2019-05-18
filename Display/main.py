@@ -8,7 +8,7 @@ from espressif.esp8266wifi import esp8266wifi
 
 WIFI_SSID = "wolkabout"
 WIFI_SECURITY = wifi.WIFI_WPA2
-WIFI_PASSWORD = "Walkm3int0"
+WIFI_PASSWORD = "*********"
 
 KEY = "whvjjf5a0yzyay9b"
 PASSWORD = "505a6c04-d4be-401b-8ebe-1a627f4bb042"
